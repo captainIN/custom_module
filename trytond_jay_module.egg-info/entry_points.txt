@@ -1,0 +1,4 @@
+
+    [trytond.modules]
+    jay_module = trytond.modules.jay_module
+    
